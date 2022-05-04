@@ -1,0 +1,213 @@
+
+Momentul 0
+
+Clienti în asteptare: 4
+(1,4,3)
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Momentul 1
+
+Clienti în asteptare: 4
+(1,4,3)
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Momentul 2
+
+Clienti în asteptare: 4
+(1,4,3)
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Momentul 3
+
+Clienti în asteptare: 4
+(1,4,3)
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Momentul 4
+
+Clienti în asteptare: 3
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+
+Coada 1: (1,4,3); 
+Coada 2: Închisa
+
+Momentul 5
+
+Clienti în asteptare: 3
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+
+Coada 1: (1,4,2); 
+Coada 2: Închisa
+
+Momentul 6
+
+Clienti în asteptare: 3
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+
+Coada 1: (1,4,1); 
+Coada 2: Închisa
+
+Momentul 7
+
+Clienti în asteptare: 3
+(2,8,5)
+(3,12,4)
+(4,14,4)
+
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Momentul 8
+
+Clienti în asteptare: 2
+(3,12,4)
+(4,14,4)
+
+
+
+Coada 1: (2,8,5); 
+Coada 2: Închisa
+
+Momentul 9
+
+Clienti în asteptare: 2
+(3,12,4)
+(4,14,4)
+
+
+
+Coada 1: (2,8,4); 
+Coada 2: Închisa
+
+Momentul 10
+
+Clienti în asteptare: 2
+(3,12,4)
+(4,14,4)
+
+
+
+Coada 1: (2,8,3); 
+Coada 2: Închisa
+
+Momentul 11
+
+Clienti în asteptare: 2
+(3,12,4)
+(4,14,4)
+
+
+
+Coada 1: (2,8,2); 
+Coada 2: Închisa
+
+Momentul 12
+
+Clienti în asteptare: 1
+(4,14,4)
+
+
+
+
+Coada 1: (2,8,1); 
+Coada 2: (3,12,4); 
+
+Momentul 13
+
+Clienti în asteptare: 1
+(4,14,4)
+
+
+
+
+Coada 1: Închisa
+Coada 2: (3,12,3); 
+
+Momentul 14
+
+Clienti în asteptare: 0
+
+
+
+
+
+Coada 1: (4,14,4); 
+Coada 2: (3,12,2); 
+
+Momentul 15
+
+Clienti în asteptare: 0
+
+
+
+
+
+Coada 1: (4,14,3); 
+Coada 2: (3,12,1); 
+
+Momentul 16
+
+Clienti în asteptare: 0
+
+
+
+
+
+Coada 1: (4,14,2); 
+Coada 2: Închisa
+
+Momentul 17
+
+Clienti în asteptare: 0
+
+
+
+
+
+Coada 1: (4,14,1); 
+Coada 2: Închisa
+
+Momentul 18
+
+Clienti în asteptare: 0
+
+
+
+
+
+Coada 1: Închisa
+Coada 2: Închisa
+
+Timp mediu de asteptare: 0.49
+Timp mediu de servire: 4.00
+Timpul de varf: 12

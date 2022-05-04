@@ -1,0 +1,584 @@
+
+Momentul 0
+
+Clienti în asteptare: 50
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 1
+
+Clienti în asteptare: 50
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 2
+
+Clienti în asteptare: 48
+
+Coada 1: (1,2,6); 
+Coada 2: (2,2,6); 
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 3
+
+Clienti în asteptare: 48
+
+Coada 1: (1,2,5); 
+Coada 2: (2,2,5); 
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 4
+
+Clienti în asteptare: 48
+
+Coada 1: (1,2,4); 
+Coada 2: (2,2,4); 
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 5
+
+Clienti în asteptare: 48
+
+Coada 1: (1,2,3); 
+Coada 2: (2,2,3); 
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 6
+
+Clienti în asteptare: 44
+
+Coada 1: (1,2,2); (6,6,1); 
+Coada 2: (2,2,2); 
+Coada 3: (3,6,3); 
+Coada 4: (4,6,3); 
+Coada 5: (5,6,7); 
+
+Momentul 7
+
+Clienti în asteptare: 42
+
+Coada 1: (1,2,1); (6,6,1); 
+Coada 2: (2,2,1); (7,7,7); 
+Coada 3: (3,6,2); (8,7,3); 
+Coada 4: (4,6,2); 
+Coada 5: (5,6,6); 
+
+Momentul 8
+
+Clienti în asteptare: 41
+
+Coada 1: (6,6,1); (9,8,1); 
+Coada 2: (7,7,7); 
+Coada 3: (3,6,1); (8,7,3); 
+Coada 4: (4,6,1); 
+Coada 5: (5,6,5); 
+
+Momentul 9
+
+Clienti în asteptare: 40
+
+Coada 1: (9,8,1); 
+Coada 2: (7,7,6); 
+Coada 3: (8,7,3); 
+Coada 4: (10,9,1); 
+Coada 5: (5,6,4); 
+
+Momentul 10
+
+Clienti în asteptare: 39
+
+Coada 1: (11,10,7); 
+Coada 2: (7,7,5); 
+Coada 3: (8,7,2); 
+Coada 4: Închisa
+Coada 5: (5,6,3); 
+
+Momentul 11
+
+Clienti în asteptare: 39
+
+Coada 1: (11,10,6); 
+Coada 2: (7,7,4); 
+Coada 3: (8,7,1); 
+Coada 4: Închisa
+Coada 5: (5,6,2); 
+
+Momentul 12
+
+Clienti în asteptare: 38
+
+Coada 1: (11,10,5); 
+Coada 2: (7,7,3); 
+Coada 3: (12,12,1); 
+Coada 4: Închisa
+Coada 5: (5,6,1); 
+
+Momentul 13
+
+Clienti în asteptare: 36
+
+Coada 1: (11,10,4); 
+Coada 2: (7,7,2); 
+Coada 3: (13,13,5); 
+Coada 4: (14,13,3); 
+Coada 5: Închisa
+
+Momentul 14
+
+Clienti în asteptare: 36
+
+Coada 1: (11,10,3); 
+Coada 2: (7,7,1); 
+Coada 3: (13,13,4); 
+Coada 4: (14,13,2); 
+Coada 5: Închisa
+
+Momentul 15
+
+Clienti în asteptare: 36
+
+Coada 1: (11,10,2); 
+Coada 2: Închisa
+Coada 3: (13,13,3); 
+Coada 4: (14,13,1); 
+Coada 5: Închisa
+
+Momentul 16
+
+Clienti în asteptare: 34
+
+Coada 1: (11,10,1); 
+Coada 2: (15,16,3); 
+Coada 3: (13,13,2); 
+Coada 4: (16,16,1); 
+Coada 5: Închisa
+
+Momentul 17
+
+Clienti în asteptare: 33
+
+Coada 1: (17,17,5); 
+Coada 2: (15,16,2); 
+Coada 3: (13,13,1); 
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 18
+
+Clienti în asteptare: 32
+
+Coada 1: (17,17,4); 
+Coada 2: (15,16,1); 
+Coada 3: (18,18,7); 
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 19
+
+Clienti în asteptare: 32
+
+Coada 1: (17,17,3); 
+Coada 2: Închisa
+Coada 3: (18,18,6); 
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 20
+
+Clienti în asteptare: 31
+
+Coada 1: (17,17,2); 
+Coada 2: (19,20,7); 
+Coada 3: (18,18,5); 
+Coada 4: Închisa
+Coada 5: Închisa
+
+Momentul 21
+
+Clienti în asteptare: 30
+
+Coada 1: (17,17,1); 
+Coada 2: (19,20,6); 
+Coada 3: (18,18,4); 
+Coada 4: (20,21,6); 
+Coada 5: Închisa
+
+Momentul 22
+
+Clienti în asteptare: 27
+
+Coada 1: (21,22,5); (23,22,6); 
+Coada 2: (19,20,5); 
+Coada 3: (18,18,3); 
+Coada 4: (20,21,5); 
+Coada 5: (22,22,4); 
+
+Momentul 23
+
+Clienti în asteptare: 27
+
+Coada 1: (21,22,4); (23,22,6); 
+Coada 2: (19,20,4); 
+Coada 3: (18,18,2); 
+Coada 4: (20,21,4); 
+Coada 5: (22,22,3); 
+
+Momentul 24
+
+Clienti în asteptare: 27
+
+Coada 1: (21,22,3); (23,22,6); 
+Coada 2: (19,20,3); 
+Coada 3: (18,18,1); 
+Coada 4: (20,21,3); 
+Coada 5: (22,22,2); 
+
+Momentul 25
+
+Clienti în asteptare: 23
+
+Coada 1: (21,22,2); (23,22,6); 
+Coada 2: (19,20,2); (25,25,2); 
+Coada 3: (24,25,5); (26,25,6); 
+Coada 4: (20,21,2); (27,25,2); 
+Coada 5: (22,22,1); 
+
+Momentul 26
+
+Clienti în asteptare: 21
+
+Coada 1: (21,22,1); (23,22,6); 
+Coada 2: (19,20,1); (25,25,2); 
+Coada 3: (24,25,4); (26,25,6); 
+Coada 4: (20,21,1); (27,25,2); 
+Coada 5: (28,26,4); (29,26,4); 
+
+Momentul 27
+
+Clienti în asteptare: 21
+
+Coada 1: (23,22,6); 
+Coada 2: (25,25,2); 
+Coada 3: (24,25,3); (26,25,6); 
+Coada 4: (27,25,2); 
+Coada 5: (28,26,3); (29,26,4); 
+
+Momentul 28
+
+Clienti în asteptare: 21
+
+Coada 1: (23,22,5); 
+Coada 2: (25,25,1); 
+Coada 3: (24,25,2); (26,25,6); 
+Coada 4: (27,25,1); 
+Coada 5: (28,26,2); (29,26,4); 
+
+Momentul 29
+
+Clienti în asteptare: 17
+
+Coada 1: (23,22,4); (32,29,7); 
+Coada 2: (30,29,4); (33,29,3); 
+Coada 3: (24,25,1); (26,25,6); 
+Coada 4: (31,29,1); 
+Coada 5: (28,26,1); (29,26,4); 
+
+Momentul 30
+
+Clienti în asteptare: 16
+
+Coada 1: (23,22,3); (32,29,7); 
+Coada 2: (30,29,3); (33,29,3); 
+Coada 3: (26,25,6); 
+Coada 4: (34,30,2); 
+Coada 5: (29,26,4); 
+
+Momentul 31
+
+Clienti în asteptare: 13
+
+Coada 1: (23,22,2); (32,29,7); 
+Coada 2: (30,29,2); (33,29,3); 
+Coada 3: (26,25,5); (35,31,5); 
+Coada 4: (34,30,1); (36,31,2); 
+Coada 5: (29,26,3); (37,31,3); 
+
+Momentul 32
+
+Clienti în asteptare: 13
+
+Coada 1: (23,22,1); (32,29,7); 
+Coada 2: (30,29,1); (33,29,3); 
+Coada 3: (26,25,4); (35,31,5); 
+Coada 4: (36,31,2); 
+Coada 5: (29,26,2); (37,31,3); 
+
+Momentul 33
+
+Clienti în asteptare: 11
+
+Coada 1: (32,29,7); (38,33,6); 
+Coada 2: (33,29,3); (39,33,6); 
+Coada 3: (26,25,3); (35,31,5); 
+Coada 4: (36,31,1); 
+Coada 5: (29,26,1); (37,31,3); 
+
+Momentul 34
+
+Clienti în asteptare: 11
+
+Coada 1: (32,29,6); (38,33,6); 
+Coada 2: (33,29,2); (39,33,6); 
+Coada 3: (26,25,2); (35,31,5); 
+Coada 4: Închisa
+Coada 5: (37,31,3); 
+
+Momentul 35
+
+Clienti în asteptare: 11
+
+Coada 1: (32,29,5); (38,33,6); 
+Coada 2: (33,29,1); (39,33,6); 
+Coada 3: (26,25,1); (35,31,5); 
+Coada 4: Închisa
+Coada 5: (37,31,2); 
+
+Momentul 36
+
+Clienti în asteptare: 5
+
+Coada 1: (32,29,4); (38,33,6); (45,36,6); 
+Coada 2: (39,33,6); (41,36,4); 
+Coada 3: (35,31,5); (42,36,5); 
+Coada 4: (40,36,5); (43,36,1); 
+Coada 5: (37,31,1); (44,36,7); 
+
+Momentul 37
+
+Clienti în asteptare: 1
+
+Coada 1: (32,29,3); (38,33,6); (45,36,6); 
+Coada 2: (39,33,5); (41,36,4); (47,37,4); 
+Coada 3: (35,31,4); (42,36,5); (48,37,6); 
+Coada 4: (40,36,4); (43,36,1); (49,37,1); 
+Coada 5: (44,36,7); (46,37,6); 
+
+Momentul 38
+
+Clienti în asteptare: 1
+
+Coada 1: (32,29,2); (38,33,6); (45,36,6); 
+Coada 2: (39,33,4); (41,36,4); (47,37,4); 
+Coada 3: (35,31,3); (42,36,5); (48,37,6); 
+Coada 4: (40,36,3); (43,36,1); (49,37,1); 
+Coada 5: (44,36,6); (46,37,6); 
+
+Momentul 39
+
+Clienti în asteptare: 0
+
+Coada 1: (32,29,1); (38,33,6); (45,36,6); 
+Coada 2: (39,33,3); (41,36,4); (47,37,4); 
+Coada 3: (35,31,2); (42,36,5); (48,37,6); 
+Coada 4: (40,36,2); (43,36,1); (49,37,1); 
+Coada 5: (44,36,5); (46,37,6); (50,39,7); 
+
+Momentul 40
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,6); (45,36,6); 
+Coada 2: (39,33,2); (41,36,4); (47,37,4); 
+Coada 3: (35,31,1); (42,36,5); (48,37,6); 
+Coada 4: (40,36,1); (43,36,1); (49,37,1); 
+Coada 5: (44,36,4); (46,37,6); (50,39,7); 
+
+Momentul 41
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,5); (45,36,6); 
+Coada 2: (39,33,1); (41,36,4); (47,37,4); 
+Coada 3: (42,36,5); (48,37,6); 
+Coada 4: (43,36,1); (49,37,1); 
+Coada 5: (44,36,3); (46,37,6); (50,39,7); 
+
+Momentul 42
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,4); (45,36,6); 
+Coada 2: (41,36,4); (47,37,4); 
+Coada 3: (42,36,4); (48,37,6); 
+Coada 4: (49,37,1); 
+Coada 5: (44,36,2); (46,37,6); (50,39,7); 
+
+Momentul 43
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,3); (45,36,6); 
+Coada 2: (41,36,3); (47,37,4); 
+Coada 3: (42,36,3); (48,37,6); 
+Coada 4: Închisa
+Coada 5: (44,36,1); (46,37,6); (50,39,7); 
+
+Momentul 44
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,2); (45,36,6); 
+Coada 2: (41,36,2); (47,37,4); 
+Coada 3: (42,36,2); (48,37,6); 
+Coada 4: Închisa
+Coada 5: (46,37,6); (50,39,7); 
+
+Momentul 45
+
+Clienti în asteptare: 0
+
+Coada 1: (38,33,1); (45,36,6); 
+Coada 2: (41,36,1); (47,37,4); 
+Coada 3: (42,36,1); (48,37,6); 
+Coada 4: Închisa
+Coada 5: (46,37,5); (50,39,7); 
+
+Momentul 46
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,6); 
+Coada 2: (47,37,4); 
+Coada 3: (48,37,6); 
+Coada 4: Închisa
+Coada 5: (46,37,4); (50,39,7); 
+
+Momentul 47
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,5); 
+Coada 2: (47,37,3); 
+Coada 3: (48,37,5); 
+Coada 4: Închisa
+Coada 5: (46,37,3); (50,39,7); 
+
+Momentul 48
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,4); 
+Coada 2: (47,37,2); 
+Coada 3: (48,37,4); 
+Coada 4: Închisa
+Coada 5: (46,37,2); (50,39,7); 
+
+Momentul 49
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,3); 
+Coada 2: (47,37,1); 
+Coada 3: (48,37,3); 
+Coada 4: Închisa
+Coada 5: (46,37,1); (50,39,7); 
+
+Momentul 50
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,2); 
+Coada 2: Închisa
+Coada 3: (48,37,2); 
+Coada 4: Închisa
+Coada 5: (50,39,7); 
+
+Momentul 51
+
+Clienti în asteptare: 0
+
+Coada 1: (45,36,1); 
+Coada 2: Închisa
+Coada 3: (48,37,1); 
+Coada 4: Închisa
+Coada 5: (50,39,6); 
+
+Momentul 52
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: (50,39,5); 
+
+Momentul 53
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: (50,39,4); 
+
+Momentul 54
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: (50,39,3); 
+
+Momentul 55
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: (50,39,2); 
+
+Momentul 56
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: (50,39,1); 
+
+Momentul 57
+
+Clienti în asteptare: 0
+
+Coada 1: Închisa
+Coada 2: Închisa
+Coada 3: Închisa
+Coada 4: Închisa
+Coada 5: Închisa
+
+Timp mediu de asteptare: 8.70
+Timp mediu de servire: 4.24
+Timpul de varf: 39
